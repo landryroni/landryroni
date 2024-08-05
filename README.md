@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- I'm a student in South China University of Technology, China. i'm completing master's in Communication and Information System                                                        
+- I'm an entrepreneut with master's in Communication and Information System                           2017 - 2022                             
 Courses: Digital Signal Processing, Speech Analysis and Processing, Information Theory, Deep Learning
 - I also have:
 a Bachelor in Computer Science                                                                                            2013 - 2017
